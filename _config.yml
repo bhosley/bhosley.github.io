@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: .ZEN
 header-img: img/home-bg.png
 email: brandon.hosley@csuglobal.edu
 copyright_name: bhosley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Math, Science, and Empty Teacups
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bhosley
